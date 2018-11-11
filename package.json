@@ -21,15 +21,15 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "bs-platform": "^4.0.5"
+    "bs-platform": "^4.0.7"
   },
   "dependencies": {
     "reason-react": "^0.5.3"
   },
   "peerDependencies": {
-    "@storybook/addon-actions": "^4.0.2",
-    "@storybook/addon-links": "^4.0.2",
-    "@storybook/addons": "^4.0.2",
-    "@storybook/react-native": "^4.0.2"
+    "@storybook/addon-actions": "^4.0.4",
+    "@storybook/addon-links": "^4.0.4",
+    "@storybook/addons": "^4.0.4",
+    "@storybook/react-native": "^4.1.0-alpha.1"
   }
 }
